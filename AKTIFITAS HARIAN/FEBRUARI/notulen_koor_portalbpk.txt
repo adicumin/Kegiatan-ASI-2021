@@ -1,0 +1,36 @@
+iqfast:
+- data sudah masuk ke BPK terkait tindakan dan pnbp
+- sudah diberikan akses untuk user dan password iqfast kepada BPK
+
+Erekon: 
+1. kepentingan kementerian keuangan (skip)
+
+BPATP penerimaan royalti:
+1. sistematika sama dgn PNBP menggunakan SIMPONI kemenkeu (utk royalti) (skip)
+2. DB HKI (permintaan server untuk melinkkan db HKI)
+3. no Pihak ke 3 yang membuat Data Base HKI Balai PATP atas nama Bpk. Adit 081247890841
+
+BAST BANPEM:
+1. 
+
+Emonev (BKP):
+1. sudah terintegrasi dengan BAST BANPEM
+2. sudah diberikan akses user dan pass untuk mengakses emonev
+3. tim teknis yang mengembangkan ?
+
+SIMPERBENIH (TP):
+1. sedang dalam tahap sosialisasi, dibangun pada tahun 2019 akhir 
+2. data kegiatan sertifikasi benih, parameter spesifikasi mutu benih, daya tumbuh, cpl, dsb
+3. data 2020 blm bisa ditarik 
+
+SIMLUHTAN (SDM):
+1. simluhtan sedang develop program2 yang ada di kementan, overlay data2 NIK dengan dukcapil
+2. data kelembagaan penyuluhan pertanian (BPP), ketenagaan (penyuluh), kelembagaan petani (poktan, gapoktan), 
+3. mendevelop CPCL diluar poktan/gapoktan
+4. pengembangan CPCL berbasis geospasial
+
+MPO (PSP):
+1. aplikasi utama di PSP yaitu bast dan mpo 
+2. koordinasi dengan pengembang aplikasi (konsultan) 
+3. 
+

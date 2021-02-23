@@ -1,0 +1,17 @@
+1. hari senin sudah mulai mengisi skp 2021
+2. tidak ada closing skp 2020 yang ada selesaikan skp untuk memunculkan nilai skp dan prilaku
+3. untuk koordinator dan subkoordinator masih menunggu sk fungsional utk update simasn
+4. koordinator dan subkoordinator ketika mengisi skp ada tiga pilihan yaitu 
+5. ADMS masih bermasalah terlambat hampir stgh jam
+
+TOR 2021
+---------------
+5. terkait microservice :
+- pembagian tim, 
+- arsitektur berbasis cloud, 
+- multiplatform, 
+- berbasis webservice/API, 
+- perlu ada service bus untuk kolaborasi. 
+- contoh microservice HRMS (SIMASN, epersonal, etalenta, etubel), portal sitampan (sipdps, siperbenih)
+6.webservice untuk repositori service2 yang ada di kementan
+7.github untuk kolaborasi dan versioning file, programming, dll. anggaran untuk lisensi onpremise

@@ -1,0 +1,14 @@
+- tim monsakti yang mengembangkan sakti
+- kemenkeu sudah menyediakan API .s21(XML, CSV)
+- level apa yg paling rendah di simonas tergantung kebutuhan
+- sudah integrasi dengan kinerja melalui aplikasi KRISNA ke dalam SAKTI
+- contoh surat permintaan integrasi aplikasi (nanti di share)
+- menjaga validitas data hanya dilakukan melalui aplikasi sakti
+- tetapi untuk interkoneksi akan disediakan 
+- menu monitoring bisa disediakan smp item
+- untuk realisasi sampe level akun 
+- kementan belum full modul
+- data revisi bisa
+- prefer data gelondongan anggaran satker 
+- t = tabel referensi, d = data transaksi, m = memori transaksi
+- thang
