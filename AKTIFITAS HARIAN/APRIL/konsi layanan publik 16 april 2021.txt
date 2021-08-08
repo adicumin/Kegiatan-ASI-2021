@@ -1,0 +1,18 @@
+1. aplikasi spbe:
+	aplikasi umum dan aplikasi khusus
+2. ketika aplikasi umum sdh merefer ke instansi pengampunya apakah masing2 kl msh dibolehkan utk membuat aplikasi umum, walopun ruang lingkup hny utk kebutuhan instansi tsb. misal modul yg blm ada di aplikasi umum tsb lalu dikembangkan utk kebutuhan internal ? contoh SIASN
+3. terkait hal tsb apakah kita hanya menunggu saja dari aplikasi umum tsb atau bagaimana ? 
+4. apabila aplikasi sejenis sdh ditetapkan tapi ada modul yg belum lengkap apakah blh instansi ybs membuat modul/aplikasi utk keperluan internal
+5. model integrasi pembangunan aplikasi khusus seperti apa ? apakah seperti portal ? 
+6. apakah di dlm portal tersebut berdasarkan eselon 1 masing2 atau ada portal satu data yg dapat menintegrasikan aplikasi2 khusus tersebut ?
+7. peran pusdatin di dalam SPBE terkait pembangunan aplikasi. apakah sebagai pengembang aplikasi atau perumus kebijakan aplikasi (service integrator) ?
+8. kalau lebih ke kebijakan artinya semua pengembangan aplikasi di serahkan kepada unit kerja dan menggunakan resource atau sdm di unit kerjanya terkait pengembangan aplikasi. 
+9. terkait untuk keperluan proyek2 perubahan apakah ada kebijakan khusus dari menpan RB terkait pembangunan aplikasi ? kalau ada boleh di sharing.
+10. terkait presentasi pak ibeng, untuk pengembangan aplikasi umum yg belum sempurna contoh SIASN, bagaimana kebutuhan itu akan dipenuhi oleh instansi ybs. apakah kita harus menunggu atau go show aja. 
+
+terkait ijin usaha hubungannya ke OSS BKPM
+terkait ekspor impor hubungannya ke INSW, yg sudah terkoneksi: simrek dan riph (koneksi hybrid dengan INSW), benih horti dan SDG (sumber daya genetik)
+SSM (single submision) 
+SIMPEL (ijin usaha, ijin eksim, pendaftaran)
+
+

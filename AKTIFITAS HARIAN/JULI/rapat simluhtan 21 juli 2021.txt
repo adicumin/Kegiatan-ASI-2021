@@ -1,0 +1,5 @@
+1. identifikasi framework untuk pengembangan simluhtan
+2. dukungan server dari SJK
+3. tim teknis simluhtan berdasarkan SK tim TIK bidang PSI
+4. koordinasi dengan pusluh terkait proses bisnis, desain, dan form
+5. MoU dengan DUKCAPIL, koordinasi model pengecekan data seperti apa

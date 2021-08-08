@@ -1,0 +1,11 @@
+hlm sebaran upt:
+1. di pie chart komposisi kebutuhan diganti komposisi formasi SDM
+
+mutasi fungsional:
+1. tambah pegawai asal cukup masukkan nip saja. muncul profile pegawai otomatis (nama dan unker)
+ditambah inputan tanggal surat, tanggal disposisi surat.
+2. ketika di ajukan/mundurkan diberikan alasan
+3. di kolom aksi ada perubahan status (pending,disetujui,tolak)
+4. tambah lihat riwayat jabatan
+5. update BKF dan ketersediaan formasi otomatis dan dinamis
+6. rekap keluar masuk jabatan per unker tujuan dan asal

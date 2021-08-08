@@ -1,0 +1,4 @@
+1. SOP TIK akan disesuaikan dengan yang baru dan lintas bidang/bagian di Pusdatin. Perlu adanya koordinasi dan penyempurnaan SOP tsb
+2. Ars Infra dan Keamanan akan mengacu ke ars nasional. untuk ars aplikasi knp tdk mengacu kesana ? kalo di renduk sblmnya lanskap aplikasi 
+3. di bagian analisis kesenjangan mengikuti metode apa ? apakah kita perlu mengikuti metode manajemen resiko yg sudah ada di menpanrb
+4. lampiran metadata ada dimana?
